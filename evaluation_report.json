@@ -1,0 +1,85 @@
+{
+  "k": 5,
+  "fetch_k": 50,
+  "restrict_to_pack": true,
+  "manifest_path": "H:\\projects\\claims\\indexes\\manifest.json",
+  "fallback_dir": "H:\\projects\\claims\\indexes",
+  "overall": {
+    "hits": 16,
+    "total": 24,
+    "hit_rate": 0.6666666666666666
+  },
+  "per_field": [
+    {
+      "field": "claim_reference",
+      "hits": 3,
+      "total": 3,
+      "hit_rate": 1.0
+    },
+    {
+      "field": "policy_number",
+      "hits": 3,
+      "total": 3,
+      "hit_rate": 1.0
+    },
+    {
+      "field": "incident_date",
+      "hits": 0,
+      "total": 3,
+      "hit_rate": 0.0
+    },
+    {
+      "field": "incident_time",
+      "hits": 1,
+      "total": 3,
+      "hit_rate": 0.3333333333333333
+    },
+    {
+      "field": "incident_location",
+      "hits": 1,
+      "total": 3,
+      "hit_rate": 0.3333333333333333
+    },
+    {
+      "field": "police_reference",
+      "hits": 3,
+      "total": 3,
+      "hit_rate": 1.0
+    },
+    {
+      "field": "total_claimed",
+      "hits": 3,
+      "total": 3,
+      "hit_rate": 1.0
+    },
+    {
+      "field": "reserve_recommendation",
+      "hits": 2,
+      "total": 3,
+      "hit_rate": 0.6666666666666666
+    }
+  ],
+  "per_pack": [
+    {
+      "claim_reference": "CLM-XOR-161849",
+      "pdf": "court_pack_1_CLM-XOR-161849.pdf",
+      "hits": 7,
+      "total": 8,
+      "hit_rate": 0.875
+    },
+    {
+      "claim_reference": "CLM-NFA-533645",
+      "pdf": "court_pack_2_CLM-NFA-533645.pdf",
+      "hits": 4,
+      "total": 8,
+      "hit_rate": 0.5
+    },
+    {
+      "claim_reference": "CLM-NOO-665754",
+      "pdf": "court_pack_3_CLM-NOO-665754.pdf",
+      "hits": 5,
+      "total": 8,
+      "hit_rate": 0.625
+    }
+  ]
+}
