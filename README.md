@@ -66,8 +66,8 @@ This tool demonstrates:
 ## 🧩 Installation
 
 ```bash
-git clone https://github.com/touseefiqbal1/Legal-Claims-RAG-Analyzer.git
-cd Legal-Claims-RAG-Analyzer
+git clone https://github.com/touseefiqbal1/Motor-Claims-Court-Pack-RAG-Analyzer-MVP.git
+cd Motor-Claims-Court-Pack-RAG-Analyzer-MVP
 
 # Create a virtual environment (recommended)
 python -m venv venv
