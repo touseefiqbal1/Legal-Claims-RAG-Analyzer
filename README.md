@@ -2,7 +2,7 @@ https://legal-claims-rag-analyzer.streamlit.app/
 
 ---
 
-## 📄 README — **Legal Claims RAG Analyzer**
+## 📄 README — **Motor Claims Court Pack RAG Analyzer (MVP)**
 
 ---
 
